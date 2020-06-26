@@ -7,7 +7,7 @@ These course cover most of the topics listed in the Learning Path. (Topic 2 - To
 * [Node.js Crash Course (Traversy Media)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 * [Express.js Crash Course (Traversy Media)](https://www.youtube.com/watch?v=L72fhGm1tfE)
 * [Node.JS + Express Crash Course (FreeCodeCamp) (Express starts@1:36:42)](https://www.youtube.com/watch?v=RLtyhwFtXQA)  
-
+* [Express.JS official documentation](https://expressjs.com/en/starter/installing.html)
 ## Other resources
 For quick referencing (syntax/examples etc):  
 * https://www.w3schools.com/nodejs/ 
